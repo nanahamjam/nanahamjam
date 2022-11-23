@@ -13,7 +13,7 @@ Aspiring web developer & testing specialist. More to follow!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nanahamjam&hide=java,html,css&theme=tokyonight)](https://github.com/nanahamjam/github-readme-stats)
 
-[![nanahamjam's GitHub stats](https://github-readme-stats.vercel.app/api?username=nanahamjam&theme=tokyonight)](https://github.com/nanahamjam/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nanahamjam&theme=tokyonight)](https://github.com/nanahamjam/github-readme-stats)
 
 <!--
 **nanahamjam/nanahamjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
