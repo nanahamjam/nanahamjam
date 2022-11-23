@@ -3,6 +3,12 @@
 ---
 Aspiring web developer and testing specialist. More to follow!
 
+---
+🧰 Toolbox
+
+
+<img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50"/><img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker logo" width="50" height="50"/>
+
 <!--
 **nanahamjam/nanahamjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
