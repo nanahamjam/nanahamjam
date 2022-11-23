@@ -6,7 +6,8 @@ Aspiring web developer and testing specialist. More to follow!
 ---
 🧰 Toolbox
 
-<img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git logo" width="50" height="50"/><img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux logo" width="50" height="50"/><img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50"/><img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker logo" width="50" height="50"/>
+<img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git logo" width="50" height="50"/><img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux logo" width="50" height="50"/><img src = "https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown logo" width="50" height="50"/><img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React logo" width="50" height="50"/><img src = "https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker logo" width="50" height="50"/><img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB logo" width="50" height="50"/> 
+
 
 <!--
 **nanahamjam/nanahamjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
